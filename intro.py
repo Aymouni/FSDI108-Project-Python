@@ -61,7 +61,7 @@ print(20 + int("20"))
 print(20 + age)
 print(20 + 2.98)
 
-"""""
+
 # User input
 # Input() lets the user type values into the terminal
 user_name = input("Input your name: ")
@@ -72,7 +72,7 @@ print(input("Enter your age: "))
 # Example: converting input to INT
 new_age = int(input("Enter your age: "))
 print(age + new_age)
-"""
+
 
 # MINI Challenge
 pizza_slices = int(input("How many slices of pizza do you have? "))
